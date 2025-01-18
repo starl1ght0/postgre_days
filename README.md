@@ -14,7 +14,7 @@ FROM
 WHERE 
   address = 'Kazan';
 ```
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 ## Exercise 01 - First steps into SQL world
 
@@ -33,7 +33,7 @@ ORDER BY
   name;
 ```
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 ## Exercise 02 - First steps into SQL world
 
@@ -69,7 +69,7 @@ ORDER BY
   rating;
 ```
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 ## Exercise 03 - First steps into SQL world
 
@@ -90,7 +90,7 @@ ORDER BY
   person_id DESC;
 ```
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
 ## Exercise 04 - First steps into SQL world
 
@@ -113,7 +113,7 @@ ORDER BY
   person ASC;
   ```
 
-  ![alt text](image-4.png)
+  ![alt text](img/image-4.png)
 
 ## Exercise 05 - First steps into SQL world
 
@@ -136,7 +136,7 @@ WHERE
   );
 ```
 
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 
 ## Exercise 06 - First steps into SQL world
 
@@ -158,7 +158,7 @@ SELECT
 FROM 
   person
 ```
-![alt text](image-9.png)
+![alt text](img/image-9.png)
 
 ## Exercise 07 - First steps into SQL world
 
@@ -177,7 +177,7 @@ FROM
     person;
 ```
 
-![alt text](image-7.png)
+![alt text](img/image-7.png)
 
 ## Exercise 08 - First steps into SQL world
 
@@ -190,7 +190,7 @@ WHERE id % 2 = 0
 ORDER BY id;
 ```
 
-![alt text](image-8.png)
+![alt text](img/image-8.png)
 
 ## Exercise 09 - First steps into SQL world
 
@@ -209,4 +209,4 @@ ORDER BY
     pizzeria_name DESC;
 ```
 
-![alt text](image-10.png)
+![alt text](img/image-10.png)
