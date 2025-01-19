@@ -1,5 +1,5 @@
 # postgre_days
-postgresql codding :3 
+postgresql coding :3 
 
 ## Exercise 00 - First steps into SQL world.
 
